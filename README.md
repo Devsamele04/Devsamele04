@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
-  <i ><b>Hello, Coder's !</b> I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀</i>
+  <i ><b>Hello, Coder's !</b> I'm all about coding, and innovation. Let's dive into the digital realm together! 🚀</i>
 </h2>
 
 <div align="center">
